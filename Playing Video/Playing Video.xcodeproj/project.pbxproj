@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		923114D61AE689CD00816F42 /* IMG_1098.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 923114D51AE689CD00816F42 /* IMG_1098.m4v */; };
 		9289B7AA1AE5C33E00E854B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9289B7A91AE5C33E00E854B6 /* AppDelegate.swift */; };
 		9289B7AC1AE5C33E00E854B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9289B7AB1AE5C33E00E854B6 /* ViewController.swift */; };
 		9289B7AF1AE5C33E00E854B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9289B7AD1AE5C33E00E854B6 /* Main.storyboard */; };
 		9289B7B11AE5C33E00E854B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9289B7B01AE5C33E00E854B6 /* Images.xcassets */; };
 		9289B7B41AE5C33E00E854B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9289B7B21AE5C33E00E854B6 /* LaunchScreen.xib */; };
 		9289B7C01AE5C33E00E854B6 /* Playing_VideoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9289B7BF1AE5C33E00E854B6 /* Playing_VideoTests.swift */; };
-		9289B7CA1AE5C6C600E854B6 /* Nathan.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 9289B7C91AE5C6C600E854B6 /* Nathan.m4v */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		923114D51AE689CD00816F42 /* IMG_1098.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = IMG_1098.m4v; sourceTree = "<group>"; };
 		9289B7A41AE5C33E00E854B6 /* Playing Video.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Playing Video.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9289B7A81AE5C33E00E854B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9289B7A91AE5C33E00E854B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -37,7 +38,6 @@
 		9289B7B91AE5C33E00E854B6 /* Playing VideoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Playing VideoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9289B7BE1AE5C33E00E854B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9289B7BF1AE5C33E00E854B6 /* Playing_VideoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Playing_VideoTests.swift; sourceTree = "<group>"; };
-		9289B7C91AE5C6C600E854B6 /* Nathan.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = Nathan.m4v; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 		9289B79B1AE5C33E00E854B6 = {
 			isa = PBXGroup;
 			children = (
-				9289B7C91AE5C6C600E854B6 /* Nathan.m4v */,
+				923114D51AE689CD00816F42 /* IMG_1098.m4v */,
 				9289B7A61AE5C33E00E854B6 /* Playing Video */,
 				9289B7BC1AE5C33E00E854B6 /* Playing VideoTests */,
 				9289B7A51AE5C33E00E854B6 /* Products */,
@@ -196,9 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9289B7AF1AE5C33E00E854B6 /* Main.storyboard in Resources */,
-				9289B7CA1AE5C6C600E854B6 /* Nathan.m4v in Resources */,
 				9289B7B41AE5C33E00E854B6 /* LaunchScreen.xib in Resources */,
 				9289B7B11AE5C33E00E854B6 /* Images.xcassets in Resources */,
+				923114D61AE689CD00816F42 /* IMG_1098.m4v in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +413,7 @@
 				9289B7C51AE5C33E00E854B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9289B7C61AE5C33E00E854B6 /* Build configuration list for PBXNativeTarget "Playing VideoTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				9289B7C81AE5C33E00E854B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

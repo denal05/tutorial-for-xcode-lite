@@ -10,7 +10,7 @@ import MediaPlayer
 
 class ViewController: UIViewController {
 
-    var myVideoPath = NSURL(fileURLWithPath: NSBundle.mainBundle().pathForResource("Nathan", ofType: "m4v")!)
+    var myVideoPath = NSURL(fileURLWithPath: NSBundle.mainBundle().pathForResource("IMG_1098", ofType: "m4v")!)
     var myMoviePlayer = MPMoviePlayerController()
     
     override func viewDidLoad() {
