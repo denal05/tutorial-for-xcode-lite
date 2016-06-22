@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>44BBE793-D4AC-4EF6-9104-695AB7E32DC7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Alert Views</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A2BE0F88B2E7404154364348AEDA3481A5A83EBA</key>
 		<string>https://github.com/denal05/tutorial-for-xcode-lite</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Alert Views/Alert Views.xcodeproj/project.xcworkspace</string>
+	<string>Alert Views/Alert Views.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A2BE0F88B2E7404154364348AEDA3481A5A83EBA</key>
